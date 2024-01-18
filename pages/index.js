@@ -19,7 +19,6 @@ export default function Home() {
       </Head>
       <Header></Header>
       <LotteryEntrance></LotteryEntrance>
-      Hello!
     </>
   )
 }
